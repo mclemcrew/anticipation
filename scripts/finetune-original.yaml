@@ -1,8 +1,8 @@
 data:
   train_urls:
-      - "train.txt"
+    - "train-original.txt"
   validation_urls:
-      - "valid.txt"
+    - "valid-original.txt"
   cache_dir: "/cache/"
   tokenizer: "passthrough"
   plaintext: True
